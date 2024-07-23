@@ -1,0 +1,56 @@
+li {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+
+.html{
+    color: #DD4B25;
+}
+
+.css{
+    color: #254BDD;
+}
+
+.js {
+    color: #EFD81D;
+}
+
+.react {
+    color: #5ED3F3;
+}
+
+.tailwind {
+    color: #18B2B6;
+}
+
+/* #html {
+    font-size: 32px;
+}
+
+#css {
+    font-size: 32px;
+}
+
+#js {
+    font-size: 32px;
+}
+#react {
+    font-size: 32px;
+}
+
+#tailwind {
+    font-size: 32px;
+} */
+
+[class] {
+    background-color: #18B2B6;
+}
+
+ul p {
+    background-color: aquamarine;
+}
+
+h1:hover {
+    color: blueviolet;
+}

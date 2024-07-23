@@ -1,0 +1,10 @@
+
+p {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: cursive;
+    color: cornflowerblue;
+    text-align: center;
+    font-style: oblique;
+    /* text-decoration: underline wavy; */
+} 
